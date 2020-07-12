@@ -1,0 +1,12 @@
+---
+# git + ssh:
+#
+# src: git@<git_server>:<git_repo_path>
+# [name: <role.name>]
+# [version: ...]
+#
+- src: git@github.com:ssato/ansible-role-simple-httpd-example.git
+  name: git_ssh.simple-httpd-example
+  scm: git
+
+# vim:sw=2:ts=2:et:

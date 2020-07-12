@@ -1,0 +1,7 @@
+---
+# galaxy:
+# src: <role.name>
+# [name: ...]
+- src: ssato.simple_httpd_example
+
+# vim:sw=2:ts=2:et:

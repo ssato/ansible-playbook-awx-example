@@ -1,0 +1,12 @@
+---
+
+# collections
+# - include: roles/collections_requirements.yml
+
+# roles
+- include: roles/galaxy_requirements.yml
+- include: roles/git_https_requirements.yml
+- include: roles/git_ssh_requirements.yml
+- include: roles/github_requirements.yml
+
+# vim:sw=2:ts=2:et:

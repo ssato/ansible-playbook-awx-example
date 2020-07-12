@@ -1,0 +1,16 @@
+---
+# git + https:
+#
+# src: git+<git.url>
+# [name: <role.name>]
+# [version: ...]
+#
+- src: git+https://github.com/ssato/ansible-role-simple-httpd-example
+  name: git_https.simple-httpd-example
+
+# with auth.
+#
+# - src: git+https://<username>:<password>@github.com/ssato/ansible-role-simple-httpd-example
+#   name: simple-httpd-example
+
+# vim:sw=2:ts=2:et:

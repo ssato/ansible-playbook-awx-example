@@ -1,0 +1,7 @@
+---
+
+collections:
+  # install from galaxy.ansible.com by name
+  - name: irixjp.sample_collection_hello
+
+# vim:sw=2:ts=2:et:
