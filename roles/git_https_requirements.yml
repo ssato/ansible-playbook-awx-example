@@ -10,7 +10,7 @@
 
 # with auth.
 #
-# - src: git+https://<username>:<password>@github.com/ssato/ansible-role-simple-httpd-example
+# - src: git+https://<username>:<password_or_token>@github.com/ssato/ansible-role-simple-httpd-example
 #   name: simple-httpd-example
 
 # vim:sw=2:ts=2:et:
